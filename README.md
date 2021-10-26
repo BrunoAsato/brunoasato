@@ -11,8 +11,8 @@
 
 # Numbers
 
-![Asato's GitHub stats](https://github-readme-stats.vercel.app/api?username=BrunoAsato&show_icons=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BrunoAsato&layout=compact)
+![Asato's GitHub stats](https://github-readme-stats.vercel.app/api?username=BrunoAsato&show_icons=true&count_private=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BrunoAsato&layout=compact&count_private=true)
 <br /><br />
 
 # Contact
