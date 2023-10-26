@@ -2,11 +2,11 @@
 
 ## I'm Bruno Asato and...
 
-:sunglasses: I'm 28 years old and I lovely to learn.  
+:sunglasses: I'm 30 years old and I lovely to learn.  
 :computer: I'm Full Stack Developer and Data Analyst!  
 :house_with_garden: I’m from Ponta Grossa - Paraná - Brazil.  
 :books: I’m currently Larning about Finances, Business Intelligence and others.  
-:outbox_tray: 2021 Goals: Growth in all continuous projects, form new partnerships and discover new opportunities.
+:outbox_tray: 2023 Goals: Growth in all continuous projects, form new partnerships and discover new opportunities.
 <br /><br />
 
 # Numbers
